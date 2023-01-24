@@ -15,6 +15,6 @@ https://github.com/embrown92/run-buddy-project
 
 ## Contribution
 
-Made with ❤️ by Eda Mae Brown
+Made with ❤️ by Mae Brown
 
-### ©️2019 Run Buddy, Inc 
+### ©️2019 Run Buddy, Inc
